@@ -1,11 +1,11 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.1/blog.tsx";
 
 blog({
-  title: "My Blog",
-  description: "This is my new blog.",
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  title: "Kaisei's blog",
+  description: "This is my personal blog.",
+  avatar: "https://deno-avatar.deno.dev/avatar/20e51a.svg",
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "Kaisei",
 
   // middlewares: [
 
